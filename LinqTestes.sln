@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqTestes", "LinqTestes\LinqTestes.csproj", "{A91ED473-47D9-4B84-A70F-AF885BD86DE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A91ED473-47D9-4B84-A70F-AF885BD86DE9}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{A91ED473-47D9-4B84-A70F-AF885BD86DE9}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{A91ED473-47D9-4B84-A70F-AF885BD86DE9}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{A91ED473-47D9-4B84-A70F-AF885BD86DE9}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{A91ED473-47D9-4B84-A70F-AF885BD86DE9}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A91ED473-47D9-4B84-A70F-AF885BD86DE9}.Debug|iPhone.Build.0 = Debug|iPhone
+		{A91ED473-47D9-4B84-A70F-AF885BD86DE9}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A91ED473-47D9-4B84-A70F-AF885BD86DE9}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A91ED473-47D9-4B84-A70F-AF885BD86DE9}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A91ED473-47D9-4B84-A70F-AF885BD86DE9}.Release|iPhone.Build.0 = Release|iPhone
+		{A91ED473-47D9-4B84-A70F-AF885BD86DE9}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A91ED473-47D9-4B84-A70F-AF885BD86DE9}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = LinqTestes\LinqTestes.csproj
+	EndGlobalSection
+EndGlobal
